@@ -19,7 +19,12 @@ Include is best suited for feeding environment variables to ansible.
 
 
 
+![project-13-apache2 running on lb](https://user-images.githubusercontent.com/52359007/170307139-735efe03-ff3f-4c9b-8ed6-5e777328edbb.PNG)
 
 
 
 
+
+
+
+![project-13-nginx-running-in-uat-env](https://user-images.githubusercontent.com/52359007/170307169-73485083-0409-482c-b9ab-c5600593c28e.PNG)

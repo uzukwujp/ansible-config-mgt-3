@@ -44,9 +44,4 @@ See the different load balancers installed sucessfully below:
 
 
 
-![project-13-apache2 running on lb](https://user-images.githubusercontent.com/52359007/170380011-66b035b6-babd-4591-b0b4-7d9520adf01f.PNG)
-
-
-
-
-![project-13-nginx-running-in-uat-env](https://user-images.githubusercontent.com/52359007/170380046-b0735dc5-eca2-4b8e-9cb6-8d187a52a854.PNG)
+![skipping apacheRole](https://user-images.githubusercontent.com/52359007/170380383-2ec38e11-7c72-42d3-a745-5d151e1e923f.PNG)

@@ -1,5 +1,10 @@
 ---
 - hosts: webservers
   roles:
+<<<<<<< HEAD
     - webserver
   become: true
+=======
+     - webserver
+  become: true
+>>>>>>> 6d96649570219052b50efc9f49e639fc2ec823ec

@@ -4,6 +4,6 @@ enable_nginx_lb: false
 load_balancer_is_required: false
 
 #IP mapping for webservers
-Web1: 172.31.25.151 
-Web2: 172.31.28.164
+Web1: 172.31.17.53
+Web2: 172.31.17.40
 

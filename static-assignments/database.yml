@@ -2,3 +2,4 @@
 - hosts: db
   roles:
     - mysql
+  become: true

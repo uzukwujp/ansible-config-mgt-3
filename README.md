@@ -1,5 +1,7 @@
 
 
+### This project was completely forked and settings modified from uzukwuJP Github as the project was the major Bloker on this Devops Journey
+
 ## ANSIBLE DYNAMIC ASSIGNMENTS (INCLUDE) AND COMMUNITY ROLES
 
 Project 13 builds on what we learnt in [project 12](https://github.com/uzukwujp/ansible-config-mgt-2)  and introduces us to another feature *Include*.

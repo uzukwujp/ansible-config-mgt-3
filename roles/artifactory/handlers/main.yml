@@ -1,0 +1,8 @@
+---
+# handlers file for artifactory
+
+- name: restart artifactory
+  become: yes
+  systemd:
+    name: "{{ artifactory_daemon }}"
+    state: restarted

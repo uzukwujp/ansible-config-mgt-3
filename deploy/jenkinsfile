@@ -3,9 +3,9 @@ pipeline {
 
   stages {
 
-    stage('Initial Cleanup'){
-      steps{
-        dir("${WORKSPACE}"){
+    stage('Initial Cleanup') {
+      steps {
+        dir("${WORKSPACE}") { 
           deleteDir()
         }
       }
